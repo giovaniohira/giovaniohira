@@ -1,5 +1,6 @@
+![](https://64.media.tumblr.com/174efc47788507c5dbf84b597dddcee2/tumblr_o7b4bgHu6L1qciqqno3_640.gif)
 # 💫 About Me:
-Portfolio: giovaniohira.com<br>🔭 I’m currently working on my Gemini integrated typing game.
+Portfolio: [giovaniohira.com](https://giovaniohira.com)<br/>🔭 I’m currently working on my Gemini integrated typing game.
 
 
 # 💻 Tech Stack:
