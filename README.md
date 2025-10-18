@@ -1,16 +1,66 @@
-![](https://64.media.tumblr.com/174efc47788507c5dbf84b597dddcee2/tumblr_o7b4bgHu6L1qciqqno3_640.gif)
-# 💫 About Me:
-Portfolio: [giovaniohira.com](https://giovaniohira.com)<br/>🔭 I’m currently working on my Gemini integrated typing game.
+<br clear="both">
 
+<div align="left">
+  <img height="350" src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif"  />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=giovaniohira&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=giovaniohira&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniohira&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=giovaniohira&icon=2&color=12)](https://visitcount.itsvg.in)
+<h1 align="left">about me /></h1>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<h5 align="left">Hi, I’m Giovani Ohira.<br><br>I’m professionally a web developer with a focus on back-end development, building reliable and efficient systems. <br>Outside of work, I enjoy exploring low-level programming and tinkering with how things work under the hood.</h5>
+
+Portfolio: [giovaniohira.com](https://giovaniohira.com)<br/>
+###
+
+<h1 align="left">tech stack /></h1>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge" height="40" alt="amazondynamodb logo"  />
+</div>
+
+###
+
+<h1 align="left">my stats /></h1>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovaniohira&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaniohira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giovaniohira&radius=0&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true&bg_color=1a0b2e&color=e6dfff&title_color=c4a1ff&line=9b5de5&point=d17fff&area_color=5a189a" height="250" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h1 align="left">visitors count /></h1>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:giovaniohira?theme=rule34&padding=4&offset=10&scale=1.5&align=center&pixelated=1&darkmode=0"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=24&fontColor=4b0082&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5a189a"  />
+</div>
+
+###
