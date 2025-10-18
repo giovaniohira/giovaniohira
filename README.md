@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="left">Hi, I’m Giovani Ohira.<br><br>I’m professionally a web developer with a focus on back-end development, building reliable and efficient systems. <br>Outside of work, I enjoy exploring low-level programming and tinkering with how things work under the hood.</h5>
 
 Portfolio: [giovaniohira.com](https://giovaniohira.com)<br/>
