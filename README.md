@@ -38,10 +38,6 @@ Portfolio: [giovaniohira.com](https://giovaniohira.com)<br/>
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovaniohira&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaniohira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=giovaniohira&radius=0&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true&bg_color=1a0b2e&color=e6dfff&title_color=c4a1ff&line=9b5de5&point=d17fff&area_color=5a189a" height="250" alt="activity-graph graph"  />
 </div>
 
